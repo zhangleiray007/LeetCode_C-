@@ -1,2 +1,2 @@
-# LeetCode_C $\p$++$\p$
-Solutions for Leetcode by Python
+# LeetCode_Cpp
+Solutions for Leetcode by C++
